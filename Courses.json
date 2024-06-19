@@ -1,0 +1,27 @@
+[
+    {
+      "nameCourse": "Web Development Bootcamp",
+      "price": 200,
+      "duration": 30
+    },
+    {
+      "nameCourse": "Data Science Fundamentals",
+      "price": 150,
+      "duration": 45
+    },
+    {
+      "nameCourse": "Mobile App Development Course",
+      "price": 180,
+      "duration": 40
+    },
+    {
+      "nameCourse": "Graphic Design Masterclass",
+      "price": 120,
+      "duration": 20
+    },
+    {
+      "nameCourse": "Blockchain Essentials",
+      "price": 250,
+      "duration": 35
+    }
+  ]
